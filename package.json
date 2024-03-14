@@ -1,0 +1,16 @@
+{
+  "name": "color-guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Corey Cashion",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
